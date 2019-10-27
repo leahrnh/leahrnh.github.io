@@ -1,7 +1,7 @@
 # main links
 main:
    - title: "About"
-     url: https://leahrnh.github.io/about
+     url: /about
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"

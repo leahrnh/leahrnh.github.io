@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "default", "air", "contrast", "dark", "dirt",
 
 # Site Settings
 locale                   : "en"
-title                    : "Leah's Personal Stuff"
+title                    : "Leah Plays with Data"
 title_separator          : "-"
 name                     : "Leah NH"
 description              : "Notes on projects Leah is working on"
@@ -247,7 +247,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
+      read_time: false
+      comments: true
       share: true
-      related: true
+      related: false
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
