@@ -13,8 +13,8 @@ title                    : "Leah Plays with Data"
 title_separator          : "-"
 name                     : "Leah NH"
 description              : "Notes on projects Leah is working on"
-url                      : "https:/leahrnh.github.io"
-baseurl                  : "/" # the subpath of your site, e.g. "/blog"
+url                      : "https://leahrnh.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : leahrnh/leahrnh.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
